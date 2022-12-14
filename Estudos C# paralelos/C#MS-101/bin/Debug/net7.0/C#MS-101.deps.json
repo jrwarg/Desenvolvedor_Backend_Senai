@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C#MS-101/1.0.0": {
+        "runtime": {
+          "C#MS-101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#MS-101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
