@@ -77,13 +77,44 @@ Console.WriteLine($@"C:\Output\{projectName}\Data");
 Console.WriteLine($"C:\\Output\\{projectName}\\Data");*/
 
 // Exercise
-string projectName = "ACME";
+/* string projectName = "ACME";
 string englishLocation = $@"c:\Exercise\{projectName}\data.txt";
 Console.WriteLine($"View English output:\n\t\t{englishLocation}\n");
             
 string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
 string russianLocation = $@"c:\Exercise\{projectName}\ru-RU\data.txt";
-Console.WriteLine($"{russianMessage}:\n\t\t{russianLocation}\n");
+Console.WriteLine($"{russianMessage}:\n\t\t{russianLocation}\n"); */
+
+// Exercise - Operators //
+/* int fahreinheit = 94;
+decimal celsius = (fahreinheit - 32m) * (5m/9m);
+Console.Write($"The temperature is {celsius} Celsius."); */
+
+// Classes, instances and static methods //
+// Each new instance of the class gets its own copy of those fields in which to store state.
+// when you need to call stateful methods, you must first create AN INSTANCE of the class so that the method can access state.
+// An Instance = OBJECT 
+/* Random dice = new Random();
+int roll = dice.Next(1, 7);
+Console.WriteLine(roll); */
+
+/* Random dice = new Random();
+int roll1 = dice.Next();
+int roll2 = dice.Next(101);
+int roll3 = dice.Next(50, 101);
+
+Console.WriteLine($"First roll: {roll1}");
+Console.WriteLine($"Second roll: {roll2}");
+Console.WriteLine($"Third roll: {roll3}"); */
+
+// Exercise //
+int firstValue = 500;
+int secondValue = 600;
+int largerValue = Math.Max(firstValue, secondValue);
+
+Console.WriteLine(largerValue);
+
+
 
 
 
