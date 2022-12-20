@@ -57,3 +57,9 @@ D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\obj\Debug\net6.0\refint\D
 D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\obj\Debug\net6.0\DotNetdependencies.pdb
 D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\obj\Debug\net6.0\DotNetdependencies.genruntimeconfig.cache
 D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\obj\Debug\net6.0\ref\DotNetdependencies.dll
+D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Curso Senai\Estudos C# paralelos\DotNetdependencies\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
