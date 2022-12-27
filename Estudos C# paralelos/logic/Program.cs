@@ -38,7 +38,7 @@ else
 }
  */
 
- // ======= CONTROL VARIABLE SCOPE AND LOGIC USING CODE BLOCKS ==========
+// ======= CONTROL VARIABLE SCOPE AND LOGIC USING CODE BLOCKS ==========
 
 /*  bool flag = true;
  if (flag)
@@ -74,8 +74,8 @@ if (flag)
     Console.WriteLine("Inside of code block: " + value);
 }
 Console.WriteLine("Outside of code block: " + value); */
-
-using System;
+// Calling a Method in the same class
+/* using System;
 
 namespace MyNewApp
 {
@@ -92,9 +92,123 @@ namespace MyNewApp
         {
             char[] letters = message.ToCharArray();
             Array.Reverse(letters);
+            return new string (letters);
+        }
+    }
+} */
+// Calling a Method outside the class
+/* using System;
+
+namespace MyNewApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = Utility.Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
+        }
+    }
+
+    class Utility
+    {
+        public static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
             return new string(letters);
+        }
+    }
+} */
+// Calling a Method from a different Namespace:
+
+/* using System;
+
+namespace MyNewApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = MyNewApp.Utilities.Utility.Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
         }
     }
 }
 
+namespace MyNewApp.Utilities
+{
+    class Utility
+    {
+        public static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
+            return new string(letters);
+        }
+    }
+} */
+// Anotations added by "Using" notation:
+/* using System;
+using MyNewApp.Utilities;
+
+namespace MyNewApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = Utility.Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
+        }
+    }
+}
+
+namespace MyNewApp.Utilities
+{
+    class Utility
+    {
+        public static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
+            return new string(letters);
+        }
+    }
+} */
+
+// Deleting / Supressing code blocks => only one line of code
+
+/* bool flag = true;
+if (flag) Console.WriteLine(flag);
+
+string name = "steve";
+if (name == "bob") Console.WriteLine("Found Bob");
+else if (name == "steve") Console.WriteLine("Found Steve");
+else Console.WriteLine("Found Chuck"); */
+
+/* string name = "steve";
+
+if (name == "bob")
+    Console.WriteLine("Found Bob");
+else if (name == "steve") 
+    Console.WriteLine("Found Steve");
+else
+    Console.WriteLine("Found Chuck"); */
+
+// Exercise -> reediting the code:
+
+int[] numbers = { 4, 8, 15, 16, 23, 42 };
+int total = 0;
+
+if (numbers.Contains(42)) Console.WriteLine("Set contains 42");
+
+foreach (int number in numbers)
+{
+    total += number;
+}
+Console.WriteLine($"Total: {total}");
 
