@@ -293,6 +293,42 @@ switch (product[2])
 Console.WriteLine($"Product: {size} {color} {type}"); */
 
 // ITERATE THROUGH A CODE BLOCK USING FOR STATEMENT
+/* Console.WriteLine("Quantas iterações? : ");
+int number = int.Parse(Console.ReadLine());
+
+for (int i = 0; i < number; i++)
+{
+    Console.Write(" " + i);
+}
+Console.Write("\n");
+for (int i = 10; i > 0; i--)
+{
+    Console.Write(" " + i);
+}
+
+for (int i = 0; i < 10; i += 3)
+{
+    Console.WriteLine(i);
+}
+
+for (int i = 0; i < 10; i++)
+{ 
+    Console.WriteLine(i);
+    if (i == 7) break;
+}
+ */
+/* string [] names = {"Alex", "Eddie", "David", "Michel"};
+/* for (int i = names.Length - 1; i >= 0; i --)
+{
+    Console.WriteLine(names[i]);
+} */
+/* for (int i = 0; i < names.Length; i++)
+{
+    if(names[i] == "Eddie") names[i] = "Sammy";
+}
+foreach (var name in names) Console.WriteLine(name); */ 
+// Exercise FizzBuzz
+
 
 
 
