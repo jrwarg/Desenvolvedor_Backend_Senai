@@ -329,6 +329,107 @@ for (int i = 0; i < 10; i++)
 foreach (var name in names) Console.WriteLine(name); */ 
 // Exercise FizzBuzz
 
+/* for (int i = 1; i <= 100; i++)
+{
+    if (i % 3 == 0 && i % 5 == 0)
+    {
+        Console.WriteLine($"{i} - FizzBuzz");
+    }
+    else if(i % 3 == 0)
+    {
+        Console.WriteLine($"{i} - Fizz");
+    } else if (i % 5 == 0)
+    {
+        Console.WriteLine($"{i} - Buzz");
+    }
+    else {
+        Console.WriteLine(i);   
+    }
+} */
+/* 
+Random randomic = new Random();
+int current = randomic.Next(1, 11);
+
+/* do
+{
+number = randomic.Next(1, 11);
+Console.WriteLine(number);
+} while (number != 7);
+
+while (current >= 3)
+{
+    Console.WriteLine(current);
+    current = randomic.Next(1, 11);
+}
+Console.WriteLine($"Last number: { current }");
+
+ */
+/* Random random = new Random();
+int current = random.Next(1, 11);
+
+do
+{
+    current = random.Next(1, 11);
+
+    if (current >= 8) continue;
+
+    Console.WriteLine(current);
+} while (current != 7);
+
+/*
+while (current >= 3)
+{
+    Console.WriteLine(current);
+    current = random.Next(1, 11);
+}
+Console.WriteLine($"Last number: {current}");
+*/
+// EXERCISE - GAME = Neu código ficou maior e menos "elegante", mas funcionou....rss....Melhorar...
+int heroHealth = 10;
+int monsterHealth = 10;
+
+Random random = new Random();
+int attack = random.Next(1, 11);
+
+while ( heroHealth > 0 || monsterHealth > 0)
+{
+    Console.WriteLine($"Monster was damaged and lost {attack} health, and now has {monsterHealth} health");
+    
+    if (monsterHealth <=0)
+    {
+        Console.WriteLine("Hero wins!");
+        break;
+    } 
+    heroHealth -= attack;
+    Console.WriteLine($"Hero was damaged and lost {attack} health, and now has {heroHealth} health");
+
+    if (heroHealth <=0) 
+    {
+        Console.WriteLine("Monster wins!");
+        break;
+    } 
+}
+
+/* int hero = 10;
+int monster = 10;
+
+Random dice = new Random();
+
+do
+{
+    int roll = dice.Next(1, 11);
+    monster -= roll;
+    Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monster} health.");
+
+    if (monster <= 0) continue;
+
+    roll = dice.Next(1, 11);
+    hero -= roll;
+    Console.WriteLine($"Hero was damaged and lost {roll} health and now has {hero} health.");
+
+} while (hero > 0 && monster > 0);
+
+Console.WriteLine(hero > monster ? "Hero wins!" : "Monster wins!"); */
 
 
 
