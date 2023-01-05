@@ -1,0 +1,36 @@
+Razor page's structure
+
+@page => Directive is what makes the page a Razor page. It indicates the page can handle HTTP requests. The @page directive must be the first directive on a Razor Page.
+
+@model => This directive specifies the model type made available to the Razor page. In this case (RazorPagePizza), the type is PageModel- derived class name, prefixed with its namespace. As you recall, that class is defined in Pages/Pizza.cshtml.cs
+
+Razor syntax uses the @ symbol to transition from HTML to C#.
+
+Razor syntax = HTML and C# combined.
+
+TAG Helpers:
+
+Partial 
+<partial name="_ValidationScriptsPartial" />
+This Tag Helper syntax is an alternative to the following HTML Helper syntax:
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+Label
+<label asp-for="NewPizza.Name" class="control-label"></label>
+The attribute accepts a specified PageModel property. In this case, the value of the PageModel Name property will be rendered as the content for an HTML <label> element.
+
+Input
+<input asp-for="NewPizza.Name" class="form-control" />
+The following HTML output is generated from the Input Tag Helper located in the Pizza page:
+<input name="NewPizza.Name" class="form-control" id="NewPizza_Name" type="text" value="" data-val-required="The Name field is required." data-val="true">
+
+Validation Summary
+<div asp-validation-summary="All"></div>
+displays a validation message for a single property on the model.The Input Tag Helper adds HTML5 data- attributes to input elements.
+The following HTML is rendered by the Validation Summary Tag Helper:
+<input name="NewPizza.Price" class="form-control" id="NewPizza_Price" type="text" value="" data-val-required="The Price field is required." data-val="true" data-val-range-min="0.01" data-val-range-max="9999.99" data-val-range="The field Price must be between 0.01 and 9999.99." data-val-number="The field Price must be a number.">
+The type, data-val-range-min, data-val-range-max, and error response are dynamically set by the model's data annotations for the model's Product.Price property.
+
+
+
+

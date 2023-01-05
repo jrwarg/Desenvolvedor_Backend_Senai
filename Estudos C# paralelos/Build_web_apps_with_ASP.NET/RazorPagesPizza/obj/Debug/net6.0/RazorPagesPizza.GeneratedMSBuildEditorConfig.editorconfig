@@ -9,37 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesPizza
 build_property.RootNamespace = RazorPagesPizza
-build_property.ProjectDir = d:\Curso Senai\Estudos C# paralelos\Build_web_apps_with_ASP.NET\RazorPagesPizza\
+build_property.ProjectDir = D:\Curso Senai\Estudos C# paralelos\Build_web_apps_with_ASP.NET\RazorPagesPizza\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Curso Senai\Estudos C# paralelos\Build_web_apps_with_ASP.NET\RazorPagesPizza
+build_property.MSBuildProjectDirectory = D:\Curso Senai\Estudos C# paralelos\Build_web_apps_with_ASP.NET\RazorPagesPizza
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Error.cshtml]
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Index.cshtml]
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Privacy.cshtml]
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Pizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/_ViewImports.cshtml]
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/_ViewStart.cshtml]
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Shared/_Layout.cshtml]
+[D:/Curso Senai/Estudos C\# paralelos/Build_web_apps_with_ASP.NET/RazorPagesPizza/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2hl0nrvjfs
