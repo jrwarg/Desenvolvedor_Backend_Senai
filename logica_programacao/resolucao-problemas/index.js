@@ -9,9 +9,9 @@ console.log(nomeDoEstudante);
 // Em outras linguagens, portanto, você encontrará algo semelhante a: 
 String: nomeEstudante = "Helena"; */
 
-let listaDeEstudantes = ["Helena", "Chico", "Mario"];
+/* let listaDeEstudantes = ["Helena", "Chico", "Mario"];
 let quantidadeDeEstudantes = listaDeEstudantes.length;
-let inicio = 0;
+let inicio = 0; */
 // console.log(quantidadeDeEstudantes);
 
 //========= com o FOR ============
@@ -48,12 +48,42 @@ do
 console.log(listaDeEstudantes); */
 
 // ======== Condicionais ============
-if(quantidadeDeEstudantes < 5)
+/* if(quantidadeDeEstudantes < 5)
 {
     listaDeEstudantes.push("José");
 } else
 {
     console.log("Não é possível inserir mais alunos nessa turma!");
 }
-console.log(listaDeEstudantes);
+console.log(listaDeEstudantes); */
+
+// ======== Exercício boletim - Transcrição Fluxograma para Código ======
+
+/* nota1 = parseFloat(prompt ("Informar 1a. nota"));
+nota2 = parseFloat(prompt ("Informar 2a. nota"));
+nota3 = parseFloat(prompt ("Informar 3a. nota"));
+
+media = (nota1 + nota2 + nota3) / 3;
+document.write("A média é :  " + media + "<br>");
+
+if (media >= 6) document.write("Situação: APROVADO");
+else if (media >=3 && media < 6) document.write("Situação: EXAME");
+else document.write("Situação: REPROVADO"); */
+
+// ==== Exercício repetições -> fluxograma x  código
+
+numero = 1;
+soma = 0; 
+
+while(numero > 0)
+{
+    numero = parseInt(prompt("Informar número ou zero(0) para encerrar"));
+    document.write(numero + "<br>");
+    soma += numero;
+}
+document.write("A somatória e: " + soma + "<br>");
+
+
+
+
 

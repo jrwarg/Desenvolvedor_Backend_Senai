@@ -1,0 +1,4 @@
+Fluxograma Exemplo1 :
+
+Este fluxo não apresenta as devidas saídas de informações ao usuário, nem indica a criação das variáveis para a recepção de decisões indicadas. Por exemplo: na decisão Entrada de peças, não especifica diretamente a criação de uma variável para assimilação da decisão (teria que ser subentendida pelo programador). 
+Após os processamentos, não apresenta os resultados na tela, simplificando demasiadamente o processo, tornando o fluxograma incompleto, ao meu ver...

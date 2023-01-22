@@ -1,0 +1,9 @@
+Fluxograma Exemplo 2 :
+
+A grande diferença observada foi que neste fluxo a decisão de continuar ou não no sistema não é analisada inicialmente como no da resolução-problema do exercício proposto.
+Isso indica, na minha opinião, que deveríamos utilizar a estrutura switch ao invés da while, já que poderíamos rapidamente indicar os "cases" da estrutura.
+
+Ainda analisando as indicações, poderíamos melhorar a apresentação:
+Opção 1 -> Sim -> 
+Após a inserção da Quantidade Inserida (QI), o resultado deveria ser somado ao saldo (S += QI).
+Opção 1 Falsa -> Após a decisão do saldo ser suficiente ou não (QR <=S), a dedução deveria ser indicada como (S -= QR)
