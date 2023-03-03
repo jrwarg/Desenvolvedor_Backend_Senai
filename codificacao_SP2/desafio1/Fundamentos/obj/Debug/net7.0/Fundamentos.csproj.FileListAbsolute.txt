@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\desafio1\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll

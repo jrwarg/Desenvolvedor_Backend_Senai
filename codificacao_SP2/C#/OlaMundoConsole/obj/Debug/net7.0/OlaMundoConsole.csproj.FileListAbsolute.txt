@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\bin\Debug\net7.0\OlaMundoConsole.exe
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\bin\Debug\net7.0\OlaMundoConsole.deps.json
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\bin\Debug\net7.0\OlaMundoConsole.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\bin\Debug\net7.0\OlaMundoConsole.dll
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\bin\Debug\net7.0\OlaMundoConsole.pdb
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.dll
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\refint\OlaMundoConsole.dll
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.pdb
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\OlaMundoConsole.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\C#\OlaMundoConsole\obj\Debug\net7.0\ref\OlaMundoConsole.dll
