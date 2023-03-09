@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\refint\06Encapsulamento.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\06Encapsulamento\obj\Debug\net7.0\ref\06Encapsulamento.dll

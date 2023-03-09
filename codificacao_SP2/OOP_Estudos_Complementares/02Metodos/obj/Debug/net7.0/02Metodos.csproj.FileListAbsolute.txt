@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\bin\Debug\net7.0\02Metodos.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\bin\Debug\net7.0\02Metodos.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\bin\Debug\net7.0\02Metodos.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\bin\Debug\net7.0\02Metodos.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\bin\Debug\net7.0\02Metodos.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\refint\02Metodos.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\02Metodos.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\02Metodos\obj\Debug\net7.0\ref\02Metodos.dll

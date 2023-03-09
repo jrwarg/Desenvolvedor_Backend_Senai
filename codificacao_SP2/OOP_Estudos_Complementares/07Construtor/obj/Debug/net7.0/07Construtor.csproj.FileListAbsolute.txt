@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\bin\Debug\net7.0\07Construtor.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\bin\Debug\net7.0\07Construtor.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\bin\Debug\net7.0\07Construtor.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\bin\Debug\net7.0\07Construtor.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\bin\Debug\net7.0\07Construtor.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\refint\07Construtor.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\07Construtor.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\07Construtor\obj\Debug\net7.0\ref\07Construtor.dll

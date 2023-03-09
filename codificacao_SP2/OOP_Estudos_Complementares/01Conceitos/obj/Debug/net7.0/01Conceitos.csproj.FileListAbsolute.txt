@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\bin\Debug\net7.0\01Conceitos.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\bin\Debug\net7.0\01Conceitos.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\bin\Debug\net7.0\01Conceitos.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\bin\Debug\net7.0\01Conceitos.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\bin\Debug\net7.0\01Conceitos.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\refint\01Conceitos.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\01Conceitos.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\01Conceitos\obj\Debug\net7.0\ref\01Conceitos.dll
