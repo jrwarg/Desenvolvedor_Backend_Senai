@@ -3,7 +3,8 @@ using System;
 class Pessoa
 {
     // Atributos
-    protected string nome;
+    // protected = apenas a classe e classes extendidas tem acesso
+    protected string? nome;
     protected int idade;
 
     // Método

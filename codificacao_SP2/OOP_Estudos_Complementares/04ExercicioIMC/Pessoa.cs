@@ -1,47 +1,64 @@
 using System;
-
 class Pessoa
 {
-    public double peso;
-    public double altura;
-    public double calcularIMC(double peso, double altura)
+
+    // Atributos
+    public double peso, altura;
+
+    // Cálculo
+    public double calculo()
     {
         return peso / (altura * altura);
     }
 
-    public string situacao()
+    // Situação
+    public string situacao(double imc)
     {
-        if (calcularIMC < 18.5)
+        // Variável
+        string retorno;
+
+        // Condicional
+        if(imc < 18.5)
         {
-            Console.Writeline("Abaixo do peso!");
+            retorno = "Abaixo do peso";
         }
-        else if (calcularIMC < 25)
+        else if(imc < 25)
         {
-           Console.Writeline("Peso normal!") ;
+            retorno = "Peso normal";
         }
-        else if (calcularIMC < 30)
+        else if(imc < 30)
         {
-            Console.Writeline("Acima do peso!");
+            retorno = "Acima do peso";
         }
-        else if (calcularIMC < 35)
+        else if(imc < 35)
         {
-            Console.Writeline("Obesidade I");
+            retorno = "Obesidade I";
         }
-        else if (calcularIMC < 40)
+        else if(imc < 40)
         {
-            Console.Writeline("Obesidade II");
+            retorno = "Obesidade II";
         }
-        else if (calcularIMC >=40)
+        else
         {
-            Console.Writeline ("Obesidade III");
+            retorno = "Obesidade III";
         }
+
+        // Retorno
+        return retorno;
     }
 
-    public string mensagem()
+    // Mensagem
+    public void mensagem()
     {
-        double calculo = calcularIMC();
-        string situacao = situacao();
+        // Obter o cálculo
+        double obterCalculo = calculo();
 
-        Console.WriteLine("O IMC é "+ calcularIMC + " - " + situacao);
+        // Obter situação
+        string obterSituacao = situacao(obterCalculo);
+
+        // Exibir mensagem
+        Console.WriteLine("Seu IMC é de "+obterCalculo);
+        Console.WriteLine("Sua situação é "+obterSituacao);
     }
+
 }

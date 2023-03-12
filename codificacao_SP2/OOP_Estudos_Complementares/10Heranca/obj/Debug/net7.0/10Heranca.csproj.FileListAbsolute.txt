@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\bin\Debug\net7.0\10Heranca.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\bin\Debug\net7.0\10Heranca.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\bin\Debug\net7.0\10Heranca.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\bin\Debug\net7.0\10Heranca.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\bin\Debug\net7.0\10Heranca.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\refint\10Heranca.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\10Heranca.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\10Heranca\obj\Debug\net7.0\ref\10Heranca.dll

@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\bin\Debug\net7.0\12Estatico.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\bin\Debug\net7.0\12Estatico.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\bin\Debug\net7.0\12Estatico.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\bin\Debug\net7.0\12Estatico.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\bin\Debug\net7.0\12Estatico.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\refint\12Estatico.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\12Estatico.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\12Estatico\obj\Debug\net7.0\ref\12Estatico.dll

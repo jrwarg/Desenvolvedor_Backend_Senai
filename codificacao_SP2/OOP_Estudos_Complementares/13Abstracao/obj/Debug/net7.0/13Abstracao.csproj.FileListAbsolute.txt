@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\bin\Debug\net7.0\13Abstracao.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\bin\Debug\net7.0\13Abstracao.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\bin\Debug\net7.0\13Abstracao.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\bin\Debug\net7.0\13Abstracao.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\bin\Debug\net7.0\13Abstracao.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\refint\13Abstracao.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\13Abstracao.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\13Abstracao\obj\Debug\net7.0\ref\13Abstracao.dll

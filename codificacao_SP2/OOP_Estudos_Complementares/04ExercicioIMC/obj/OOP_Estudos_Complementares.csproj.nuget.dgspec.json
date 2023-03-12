@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\OOP_Estudos_Complementares.csproj": {}
+    "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\04ExercicioIMC\\OOP_Estudos_Complementares.csproj": {}
   },
   "projects": {
-    "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\OOP_Estudos_Complementares.csproj": {
+    "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\04ExercicioIMC\\OOP_Estudos_Complementares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\OOP_Estudos_Complementares.csproj",
+        "projectUniqueName": "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\04ExercicioIMC\\OOP_Estudos_Complementares.csproj",
         "projectName": "OOP_Estudos_Complementares",
-        "projectPath": "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\OOP_Estudos_Complementares.csproj",
+        "projectPath": "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\04ExercicioIMC\\OOP_Estudos_Complementares.csproj",
         "packagesPath": "C:\\Users\\jrwar\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\obj\\",
+        "outputPath": "D:\\Curso Senai\\codificacao_SP2\\OOP_Estudos_Complementares\\04ExercicioIMC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

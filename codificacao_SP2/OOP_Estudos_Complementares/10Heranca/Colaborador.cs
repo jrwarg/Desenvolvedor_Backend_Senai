@@ -1,6 +1,6 @@
 using System;
 
-class Colaborador
+class Colaborador : Pessoa
 {
     // Atributo
     private double salario;
@@ -8,7 +8,13 @@ class Colaborador
     // Construtor
     public Colaborador (string nome, int idade, double salario)
     {
-        
+        this.nome = nome;
+        this.idade = idade;
+        this.salario = salario;
+
+        mensagemPessoa();
+        mensagemColaborador();
+
     }
 
     // Método

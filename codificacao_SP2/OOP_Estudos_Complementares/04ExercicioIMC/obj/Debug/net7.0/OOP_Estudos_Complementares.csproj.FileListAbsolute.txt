@@ -1,0 +1,15 @@
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\bin\Debug\net7.0\OOP_Estudos_Complementares.exe
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\bin\Debug\net7.0\OOP_Estudos_Complementares.deps.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\bin\Debug\net7.0\OOP_Estudos_Complementares.runtimeconfig.json
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\bin\Debug\net7.0\OOP_Estudos_Complementares.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\bin\Debug\net7.0\OOP_Estudos_Complementares.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\refint\OOP_Estudos_Complementares.dll
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.pdb
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\OOP_Estudos_Complementares.genruntimeconfig.cache
+D:\Curso Senai\codificacao_SP2\OOP_Estudos_Complementares\04ExercicioIMC\obj\Debug\net7.0\ref\OOP_Estudos_Complementares.dll
