@@ -1,0 +1,15 @@
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\bin\Debug\net6.0\Atividade.exe
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\bin\Debug\net6.0\Atividade.deps.json
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\bin\Debug\net6.0\Atividade.dll
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\bin\Debug\net6.0\Atividade.pdb
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.dll
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\refint\Atividade.dll
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.pdb
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+D:\Curso Senai\Projeto_Cadastro_Clientes\Atividade\obj\Debug\net6.0\ref\Atividade.dll
