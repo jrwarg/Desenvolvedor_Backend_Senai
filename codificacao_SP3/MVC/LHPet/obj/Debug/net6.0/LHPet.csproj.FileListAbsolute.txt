@@ -1,0 +1,8 @@
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.csproj.AssemblyReference.cache
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.AssemblyInfoInputs.cache
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.AssemblyInfo.cs
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.csproj.CoreCompileInputs.cache
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.RazorAssemblyInfo.cache
+D:\Curso Senai\codificacao_SP3\MVC\LHPet\obj\Debug\net6.0\LHPet.RazorAssemblyInfo.cs

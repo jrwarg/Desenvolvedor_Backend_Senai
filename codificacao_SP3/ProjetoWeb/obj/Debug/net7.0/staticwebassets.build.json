@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "fyyMr16D5nlnCL9P4oi4W5CYwTVICpjtOKpTDJRCL2k=",
+  "Source": "ProjetoWeb",
+  "BasePath": "_content/ProjetoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoWeb\\wwwroot",
+      "Source": "ProjetoWeb",
+      "ContentRoot": "D:\\Curso Senai\\codificacao_SP3\\ProjetoWeb\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Curso Senai\\codificacao_SP3\\ProjetoWeb\\wwwroot\\produtos.html",
+      "SourceId": "ProjetoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Curso Senai\\codificacao_SP3\\ProjetoWeb\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb",
+      "RelativePath": "produtos.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\produtos.html"
+    }
+  ]
+}
